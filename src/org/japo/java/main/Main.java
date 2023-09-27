@@ -26,7 +26,8 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HolaMundo");
+        String nombre = "Japo Labs";
+        System.out.println("Hola " + nombre);
     }
     
 }
